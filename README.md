@@ -20,7 +20,7 @@ Here are some of the projects I've worked on. Each one is designed to reflect re
 ### Skills
 - SIEM: Splunk, Azure Sentinel (Log Analytics)
 - Threat Detection and Triage
-- Log Analysis and KQL
+- Log Analysis 
 - IDS/IPS: Snort, Zeek
 - Azure Security (Defender for Cloud, App Service, Monitoring)
 - Python (for automation and basic scripting)
