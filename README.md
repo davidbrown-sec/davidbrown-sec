@@ -17,7 +17,7 @@ Here are some of the projects I've worked on. Each one is designed to reflect re
 
 
 
-
+### Skills
 - SIEM: Splunk, Azure Sentinel (Log Analytics)
 - Threat Detection and Triage
 - Log Analysis and KQL
