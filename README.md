@@ -8,7 +8,7 @@ Cybersecurity enthusiast focused on hands-on projects that solve real-world chal
 
 Here are some of the projects I've worked on. Each one is designed to reflect real-world use cases in cybersecurity.
 
-⚠️ Vulnerability Management Projects
+### ⚠️ Vulnerability Management Projects
   - Vulnerability Management Program Implementation
   Programmatic Vulnerability Remediations (PowerShell and BASH)
 
@@ -30,6 +30,6 @@ Here are some of the projects I've worked on. Each one is designed to reflect re
 You can connect with me here:
 
 - LinkedIn: [(https://www.linkedin.com/in/david-benton-brown-738174150/)]
-- Email: [your-email]
+- Email: [engr.davidb@gmail.com]
 
 Thank you for visiting my profile.
