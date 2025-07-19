@@ -12,8 +12,6 @@ Here are some of the projects I've worked on. Each one is designed to reflect re
   - Vulnerability Management Program Implementation
   Programmatic Vulnerability Remediations (PowerShell and BASH)
 
-  - Azure Web App Security Monitor  
-  Deployed a fake login page in Azure, enabled Defender for Cloud, and set up Log Analytics to detect and alert on suspicious login activity.
 
 
 
