@@ -5,7 +5,7 @@ Cybersecurity enthusiast focused on hands-on projects that solve real-world chal
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]([https://github.com/joshcybertest/programmatic-vulnerability-remediations](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/main/Vulnerability%20Management%20Program%20Implementation))**
+- **[Vulnerability Management Program Implementation]([https://github.com/joshcybertest/programmatic-vulnerability-remediations](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/main/Vulnerability%20Management%20Program%20Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
