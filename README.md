@@ -1,5 +1,4 @@
 
-
 # <a href="https://www.linkedin.com/in/david-benton-brown-738174150">David Brown</a>'s Cybersecurity Project Portfolio 🔐
 
 Cybersecurity enthusiast focused on hands-on projects that solve real-world challenges. I work on threat detection, vulnerability management, and security operations. My repositories showcase practical solutions designed to improve security processes and outcomes.
