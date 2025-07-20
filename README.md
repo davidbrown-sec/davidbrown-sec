@@ -6,7 +6,7 @@ Cybersecurity enthusiast focused on hands-on projects that solve real-world chal
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/main/Vulnerability%20Management%20Program%20Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/b0f32e98ed794c8a8596d4a307a85b427d919566/programmatic-remediation-scripts)**
 
 ## 🚨 Threat Hunting and Security Operations
 
