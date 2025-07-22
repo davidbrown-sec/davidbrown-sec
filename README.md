@@ -14,7 +14,7 @@ Cybersecurity enthusiast focused on hands-on projects that solve real-world chal
 ### Windows 10 STIG Remediation Scripts
 
 A curated collection of PowerShell-based remediation labs designed for **DISA STIG compliance** on Windows 10 systems.
-Each script is organized with:
+
 
 
 
