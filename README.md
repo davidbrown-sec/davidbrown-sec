@@ -8,6 +8,16 @@ Cybersecurity enthusiast focused on hands-on projects that solve real-world chal
 - **[Vulnerability Management Program Implementation](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/main/Vulnerability%20Management%20Program%20Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/b0f32e98ed794c8a8596d4a307a85b427d919566/programmatic-remediation-scripts)**
 
+
+## 🛡️ DISA STIG Compliance Labs
+
+### Windows 10 STIG Remediation Scripts
+
+A curated collection of PowerShell-based remediation labs designed for **DISA STIG compliance** on Windows 10 systems.
+Each script is organized with:
+
+
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
