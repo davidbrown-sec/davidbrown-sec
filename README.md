@@ -11,8 +11,7 @@ Cybersecurity enthusiast focused on hands-on projects that solve real-world chal
 
 ## 🛡️ DISA STIG Compliance Labs
 
-### Windows 10 STIG Remediation Scripts
-
+- **[Windows 10 STIG Remediation Scripts](https://github.com/davidbrown-sec/DISA-STIG-COMPLIANCE)**
 A curated collection of PowerShell-based remediation labs designed for **DISA STIG compliance** on Windows 10 systems.
 
 
