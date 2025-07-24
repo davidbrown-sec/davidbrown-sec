@@ -9,7 +9,7 @@ Cybersecurity enthusiast focused on hands-on projects that solve real-world chal
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/b0f32e98ed794c8a8596d4a307a85b427d919566/programmatic-remediation-scripts)**
 
 
-##  DISA STIG Compliance Labs
+##  DISA STIG Compliance
 
 - **[Windows 10 STIG Remediation Scripts](https://github.com/davidbrown-sec/DISA-STIG-COMPLIANCE)**
 
