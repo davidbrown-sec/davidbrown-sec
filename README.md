@@ -3,27 +3,27 @@
 
 Cybersecurity enthusiast focused on hands-on projects that solve real-world challenges. I work on threat detection, vulnerability management, and security operations. My repositories showcase practical solutions designed to improve security processes and outcomes.
 
-## ⚠️ Vulnerability Management Projects
+##  Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/main/Vulnerability%20Management%20Program%20Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/b0f32e98ed794c8a8596d4a307a85b427d919566/programmatic-remediation-scripts)**
 
 
-## 🛡️ DISA STIG Compliance Labs
+##  DISA STIG Compliance Labs
 
 - **[Windows 10 STIG Remediation Scripts](https://github.com/davidbrown-sec/DISA-STIG-COMPLIANCE)**
-A curated collection of PowerShell-based remediation labs designed for **DISA STIG compliance** on Windows 10 systems.
 
 
 
 
-## 🚨 Threat Hunting and Security Operations
+
+## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
 <hr/>
 
-## 🤳 Connect With Me
+## Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
