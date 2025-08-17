@@ -19,7 +19,7 @@ Cybersecurity enthusiast focused on hands-on projects that solve real-world chal
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting)](https://github.com/davidbrown-sec/Threat-Hunting/blob/73c8add92588b7f14b40be213662275bf8fa746c/README.md)**
+- **[Threat Hunting](https://github.com/davidbrown-sec/Threat-Hunting/blob/73c8add92588b7f14b40be213662275bf8fa746c/README.md)**
 
 <hr/>
 
