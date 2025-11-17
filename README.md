@@ -121,15 +121,3 @@ Secure designs for IAM permissions, governance, SCPs, MFA, and continuous identi
 - Passionate about scalable automation, detection engineering, and strengthening enterprise SOC operations.
 
 ---
-
-# 🧩 Footer  
-If you'd like, I can also add:
-
-- A custom cyber-themed banner  
-- A GitHub activity section  
-- A project roadmap  
-- A skills matrix  
-- A rotating badges section  
-
-Just let me know!
-
