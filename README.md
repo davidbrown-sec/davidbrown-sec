@@ -113,7 +113,7 @@ Secure designs for IAM permissions, governance, SCPs, MFA, and continuous identi
 
 ---
 
-# ⭐ Recruiter Summary  
+# ⭐ Summary  
 
 - Hands-on experience in **SIEM detection**, **endpoint telemetry analytics**, and **cloud security engineering**.  
 - Built full **vulnerability management pipelines** and automated remediation tools.  
