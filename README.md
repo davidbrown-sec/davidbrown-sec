@@ -1,46 +1,135 @@
+# 🚀 David Brown — Cybersecurity & Cloud Security Portfolio  
+![banner](https://raw.githubusercontent.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb)
 
-# <a href="https://www.linkedin.com/in/david-benton-brown-738174150">David Brown</a>'s Cybersecurity Project Portfolio 
+<div align="center">
 
-Cybersecurity enthusiast focused on hands-on projects that solve real-world challenges. I work on threat detection, vulnerability management, and security operations. My repositories showcase practical solutions designed to improve security processes and outcomes.
+**Cybersecurity • Cloud Security • Threat Hunting • Vulnerability Management**
 
-##  Vulnerability Management Projects
+Hands-on security practitioner focused on **real-world detection, remediation, and automation** across Windows, Linux, Azure, and AWS environments.
 
-- **[Vulnerability Management Program Implementation](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/main/Vulnerability%20Management%20Program%20Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/b0f32e98ed794c8a8596d4a307a85b427d919566/programmatic-remediation-scripts)**
+</div>
 
+---
 
-##  DISA STIG Compliance
+## 🧰 Technical Skills & Tools
 
-- **[Windows 10 STIG Remediation Scripts](https://github.com/davidbrown-sec/DISA-STIG-COMPLIANCE)**
+<p align="center">
 
+<!-- LANGUAGES -->
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
+<!-- CLOUD -->
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
+<!-- SECURITY -->
+<img src="https://img.shields.io/badge/Microsoft%20Defender-6A5ACD?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Sentinel-1E90FF?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tenable-168DE2?style=for-the-badge&logo=tenable&logoColor=white"/>
 
+<!-- DEVOPS -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-## Threat Hunting and Security Operations
+<!-- OPERATING SYSTEMS -->
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-- **[Threat Hunting](https://github.com/davidbrown-sec/Threat-Hunting/blob/2dc928869cc2acd7e1de2d796249dcda4d0d4cd9/README.md)**
+</p>
 
-<hr/>
+---
 
+## 📝 About Me
 
-## AWS 
-- **[IAM](https://github.com/davidbrown-sec/AWS/blob/c0542c48daa502332b643b46a1fa0ce9030cffe1/CloudSecurity-AWS-IAM.md)**
+I’m a **cloud-oriented cybersecurity practitioner** passionate about:
 
-## Connect With Me
+- Threat hunting & incident response  
+- Programmatic security automation  
+- Vulnerability management & prioritization  
+- SIEM detection engineering (KQL, Sentinel)  
+- Azure & AWS security hardening  
+- DISA STIG compliance  
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+My goal is to build **secure, automated, scalable** solutions that reduce risk and improve SOC efficiency.
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/david-benton-brown-738174150
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+---
 
+# 📁 Featured Projects
+
+---
+
+## 🔐 Vulnerability Management
+
+### ➡️ [Vulnerability Management Program Implementation](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/main/Vulnerability%20Management%20Program%20Implementation)  
+A full lifecycle implementation covering vulnerability discovery, prioritization, reporting, and automated remediation.
+
+### ➡️ [Programmatic Remediation Scripts (PowerShell & Bash)](https://github.com/davidbrown-sec/Vulnerability-Management-Projects/tree/b0f32e98ed794c8a8596d4a307a85b427d919566/programmatic-remediation-scripts)  
+Enterprise-ready scripts for automated remediation across Windows and Linux systems.
+
+---
+
+## 🛡 DISA STIG Compliance
+
+### ➡️ [Windows 10 STIG Remediation](https://github.com/davidbrown-sec/DISA-STIG-COMPLIANCE)  
+Automated enforcement of DISA STIG settings using PowerShell and configuration baselines.
+
+---
+
+## 🎯 Threat Hunting & Security Operations
+
+### ➡️ [Threat Hunting Playbooks & Analysis](https://github.com/davidbrown-sec/Threat-Hunting/blob/2dc928869cc2acd7e1de2d796249dcda4d0d4cd9/README.md)  
+KQL-driven investigations, JA3/JA4 fingerprinting, endpoint event analysis, and real-world hunt methodologies.
+
+---
+
+## ☁️ AWS Security
+
+### ➡️ [AWS IAM Hardening Project](https://github.com/davidbrown-sec/AWS/blob/c0542c48daa502332b643b46a1fa0ce9030cffe1/CloudSecurity-AWS-IAM.md)  
+Secure designs for IAM permissions, governance, SCPs, MFA, and continuous identity monitoring.
+
+---
+
+# 📬 Connect With Me
+
+<p align="left">
+
+<a href="https://www.youtube.com/c/___________">
+<img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<a href="https://twitter.com/___________">
+<img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://linkedin.com/in/david-benton-brown-738174150">
+<img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/___________">
+<img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+</p>
+
+---
+
+# ⭐ Recruiter Summary  
+
+- Hands-on experience in **SIEM detection**, **endpoint telemetry analytics**, and **cloud security engineering**.  
+- Built full **vulnerability management pipelines** and automated remediation tools.  
+- Strong with **Azure**, **Microsoft Defender**, **Sentinel**, **AWS**, **Tenable**, **PowerShell**, and **KQL**.  
+- Passionate about scalable automation, detection engineering, and strengthening enterprise SOC operations.
+
+---
+
+# 🧩 Footer  
+If you'd like, I can also add:
+
+- A custom cyber-themed banner  
+- A GitHub activity section  
+- A project roadmap  
+- A skills matrix  
+- A rotating badges section  
+
+Just let me know!
 
