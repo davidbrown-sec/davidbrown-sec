@@ -91,10 +91,6 @@ Secure designs for IAM permissions, governance, SCPs, MFA, and continuous identi
 
 # 📬 Connect With Me
 
-<p align="left">
-
-## Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-benton-brown/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
