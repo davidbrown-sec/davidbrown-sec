@@ -93,23 +93,6 @@ Secure designs for IAM permissions, governance, SCPs, MFA, and continuous identi
 
 <p align="left">
 
-<a href="https://www.youtube.com/c/___________">
-<img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-<a href="https://twitter.com/___________">
-<img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://linkedin.com/in/david-benton-brown-738174150">
-<img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/___________">
-<img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-benton-brown/)
