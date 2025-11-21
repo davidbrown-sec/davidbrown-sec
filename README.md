@@ -1,5 +1,5 @@
 # 🚀 David Brown — Cybersecurity & Cloud Security Portfolio  
-![banner](https://raw.githubusercontent.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb)
+
 
 <div align="center">
 
