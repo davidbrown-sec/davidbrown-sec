@@ -77,7 +77,7 @@ Automated enforcement of DISA STIG settings using PowerShell and configuration b
 
 ## 🎯 Threat Hunting & Security Operations
 
-### ➡️ [Threat Hunting Playbooks & Analysis](https://github.com/davidbrown-sec/Threat-Hunting/blob/2dc928869cc2acd7e1de2d796249dcda4d0d4cd9/README.md)  
+### ➡️ [Threat Hunting ](https://github.com/davidbrown-sec/Threat-Hunting/blob/2dc928869cc2acd7e1de2d796249dcda4d0d4cd9/README.md)  
 KQL-driven investigations, JA3/JA4 fingerprinting, endpoint event analysis, and real-world hunt methodologies.
 
 ---
