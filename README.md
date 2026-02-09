@@ -1,9 +1,9 @@
-# 🚀 David Brown — Cybersecurity & Cloud Security Portfolio  
+# 🚀 David Brown — Cybersecurity Portfolio  
 
 
 <div align="center">
 
-**Cybersecurity • Cloud Security • Threat Hunting • Vulnerability Management**
+**Cybersecurity • SOC  • Cloud Security • Threat Hunting • Vulnerability Management • IAM **
 
 Hands-on security practitioner focused on **real-world detection, remediation, and automation** across Windows, Linux, Azure, and AWS environments.
 
